@@ -1,2 +1,2 @@
 # docker-elastic-stack-logtrail
-Blacktop docker-elastic-stack including Kibana log trail plugin
+[link](https://github.com/blacktop/docker-elastic-stack "Blacktop's docker-elastic-stack") including Kibana log trail plugin
